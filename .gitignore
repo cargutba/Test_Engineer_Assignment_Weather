@@ -1,0 +1,6 @@
+node_modules/
+.idea/modules.xml
+.idea/protractor_assignment.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/
